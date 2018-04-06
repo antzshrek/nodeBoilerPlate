@@ -1,0 +1,27 @@
+{
+  "name": "postmets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "nHub",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "*",
+    "bluebird": "*",
+    "body-parser": "*",
+    "compression": "*",
+    "connect-mongo": "*",
+    "cookie-parser": "*",
+    "cors": "*",
+    "express": "*",
+    "express-session": "*",
+    "lodash": "*",
+    "mongoose": "^5.0.13",
+    "morgan": "*",
+    "multer": "*",
+    "nodemon": "*"
+  }
+}
