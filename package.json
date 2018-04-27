@@ -1,12 +1,12 @@
 {
-  "name": "postmets",
+  "name": "nodeBoilerPlate",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "npm test"
   },
-  "author": "nHub",
+  "author": "Antz",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "*",
