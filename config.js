@@ -3,6 +3,6 @@ module.exports = {
     mongoose: {
         Promise: require('bluebird'), //mongoose promise library
         connection: 'mongodb://localhost:27017/testing',
-         //connection: 'mongodb://you_can provide your cloud service url. He mlab'
+         //connection: 'mongodb://you_can provide your mlab db service url here.'
     },
 };
